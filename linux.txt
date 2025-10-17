@@ -206,3 +206,72 @@ case "$Name" in
     #case 3
     "Girish") echo "Profession : Technical Content Writer" ;;
 esac
+
+ls – List directory contents
+
+cd – Change directory
+
+pwd – Print working directory
+
+mkdir – Create directory
+
+rmdir – Remove empty directory
+
+rm – Remove files or directories
+
+cp – Copy files or directories
+
+mv – Move or rename files
+
+touch – Create empty file
+
+cat – Display file content
+
+head / tail – Show beginning/end of file
+
+find – Search files and directories
+
+git config --global user.name "Your Name" – Set your global username
+
+git config --global user.email "you@example.com" – Set your global email
+
+git config --list – View current Git configuration
+
+git init – Initialize a new Git repository
+
+git clone <repo-url> – Clone an existing repository
+git status – Show changed files
+
+git add <file> – Stage a file
+
+git add . – Stage all changes
+
+git reset <file> – Unstage a file
+
+git rm <file> – Remove a file from repo
+git commit -m "message" – Commit staged changes
+
+git commit -a -m "message" – Commit all tracked changes
+
+git log – View commit history
+
+git show – Show details of a commit
+
+git branch – List branches
+
+git branch <name> – Create new branch
+
+git checkout <name> – Switch to branch
+
+git merge <name> – Merge branch into current
+
+git branch -d <name> – De
+git remote -v – Show remote URLs
+
+git remote add origin <url> – Add remote
+
+git push origin <branch> – Push changes
+
+git pull origin <branch> – Pull changes
+
+git fetch – Fetch updates from remote
